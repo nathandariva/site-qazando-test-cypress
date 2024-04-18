@@ -1,0 +1,23 @@
+{
+  "name": "site-qazando-test-cypress",
+  "version": "1.0.0",
+  "description": "teste para o site de compras -qazando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathandariva/site-qazando-test-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathandariva/site-qazando-test-cypress/issues"
+  },
+  "homepage": "https://github.com/nathandariva/site-qazando-test-cypress#readme",
+  "dependencies": {
+    "cypress": "^13.8.0"
+  }
+}
